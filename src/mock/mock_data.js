@@ -343,6 +343,12 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
+          "id": "site-1756138113940",
+          "name": "中国大学MOOC",
+          "url": "https://www.icourse163.org/",
+          "description": ""
+        },
+        {
           "id": "mdn",
           "name": "MDN Web Docs",
           "url": "https://developer.mozilla.org",
