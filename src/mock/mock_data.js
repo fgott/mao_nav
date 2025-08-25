@@ -485,6 +485,21 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1756140497736",
+      "icon": "🌐",
+      "name": "书签",
+      "order": 11,
+      "sites": [
+        {
+          "id": "site-1756140575993",
+          "name": "cf优选IP",
+          "url": "https://github.com/xingpingcn/enhanced-FaaS-in-China",
+          "description": "提升部署在 cloudflare、vercel 或 netlify 的网页在中国的访问速度和稳定性",
+          "icon": "https://github.githubassets.com/favicons/favicon.png"
+        }
+      ]
     }
   ],
   "title": "极简导航"
