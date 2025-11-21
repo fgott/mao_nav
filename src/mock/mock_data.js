@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1763707924806",
+          "name": "IDC",
+          "url": "https://idcflare.com/",
+          "description": "",
+          "icon": "https://idcflare.com/uploads/default/original/1X/ef53f17a0eb534aa8948f29e136f4eac38427f43.png"
         }
       ]
     },
@@ -144,10 +151,31 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1756140497736",
+      "icon": "🌐",
+      "name": "书签",
+      "order": 3,
+      "sites": [
+        {
+          "id": "site-1756140575993",
+          "name": "cf优选IP",
+          "url": "https://github.com/xingpingcn/enhanced-FaaS-in-China",
+          "description": "提升部署在 cloudflare、vercel 或 netlify 的网页在中国的访问速度和稳定性",
+          "icon": "https://github.githubassets.com/favicons/favicon.png"
+        },
+        {
+          "id": "site-1763707052691",
+          "name": "Mitsea Blog",
+          "url": "https://blog.mitsea.com/",
+          "description": ""
+        }
+      ]
+    },
+    {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "site-1756138113940",
@@ -189,7 +217,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "json-formatter",
@@ -225,7 +253,7 @@ export const mockData = {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "chatgpt",
@@ -268,7 +296,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "github",
@@ -318,7 +346,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "binance",
@@ -382,7 +410,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "bilibili",
@@ -418,7 +446,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "figma",
@@ -454,7 +482,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "notion",
@@ -483,27 +511,6 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1756140497736",
-      "icon": "🌐",
-      "name": "书签",
-      "order": 11,
-      "sites": [
-        {
-          "id": "site-1756140575993",
-          "name": "cf优选IP",
-          "url": "https://github.com/xingpingcn/enhanced-FaaS-in-China",
-          "description": "提升部署在 cloudflare、vercel 或 netlify 的网页在中国的访问速度和稳定性",
-          "icon": "https://github.githubassets.com/favicons/favicon.png"
-        },
-        {
-          "id": "site-1763707052691",
-          "name": "Mitsea Blog",
-          "url": "https://blog.mitsea.com/",
-          "description": ""
         }
       ]
     }
