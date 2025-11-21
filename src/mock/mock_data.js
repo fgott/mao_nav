@@ -498,6 +498,12 @@ export const mockData = {
           "url": "https://github.com/xingpingcn/enhanced-FaaS-in-China",
           "description": "提升部署在 cloudflare、vercel 或 netlify 的网页在中国的访问速度和稳定性",
           "icon": "https://github.githubassets.com/favicons/favicon.png"
+        },
+        {
+          "id": "site-1763707052691",
+          "name": "Mitsea Blog",
+          "url": "https://blog.mitsea.com/",
+          "description": ""
         }
       ]
     }
