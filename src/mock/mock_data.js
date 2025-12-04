@@ -168,6 +168,12 @@ export const mockData = {
           "name": "Mitsea Blog",
           "url": "https://blog.mitsea.com/",
           "description": ""
+        },
+        {
+          "id": "site-1764832097179",
+          "name": "hackernews",
+          "url": "https://news.ycombinator.com/",
+          "description": ""
         }
       ]
     },
