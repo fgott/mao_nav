@@ -174,6 +174,12 @@ export const mockData = {
           "name": "hackernews",
           "url": "https://news.ycombinator.com/",
           "description": ""
+        },
+        {
+          "id": "site-1768151273933",
+          "name": "cf-blog",
+          "url": "https://blog.gezhong.vip/",
+          "description": ""
         }
       ]
     },
